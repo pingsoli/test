@@ -1,0 +1,35 @@
+音视频的流程，wifi配置的流程，添加设备的流程。
+
+
+Activity
+startActivity(Intent i)
+ 
+startActivityForResult(Intent intent, int requestCode)
+
+Service
+ComponentName startService(Intent service)
+ 
+boolean bindService(Intent service, ServiceConnection conn, int flags)
+BroadcastReceiver
+sendBroadcast(Intent intent)
+ 
+sendBroadcast(Intent intent, String receiverPermission)
+ 
+sendOrderedBroadcast(Intent intent, String receiverPermission)
+
+zhuanxian123
+
+  <component name="FacetManager">
+
+  </component>
+
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+      </configuration>
+    </facet>
