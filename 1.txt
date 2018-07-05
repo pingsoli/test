@@ -1,3 +1,0 @@
-this is a 1.txt file
-add something
-rm somefiles and test 'commit -a -m <message>'
