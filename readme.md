@@ -8,3 +8,5 @@ master -> A
    \----> dev
 
 git reset test
+
+made some modification on ubuntu.
