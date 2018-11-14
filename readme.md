@@ -10,3 +10,5 @@ master -> A
 git reset test
 
 made some modification on ubuntu.
+
+on detached commit point, and do some modification.
